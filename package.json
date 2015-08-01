@@ -1,0 +1,35 @@
+{
+  "name": "async-bach",
+  "version": "0.1.0",
+  "description": "a rewrite of phated&#x2F;bach and related dependencies for educational purposes",
+  "main": "index.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akileez/async-bach.git"
+  },
+  "author": {
+    "name": "Keith Williams",
+    "email": "git@keeda.net",
+    "url": "https://github.com/akileez/async-bach"
+  },
+  "homepage": "https://github.com/akileez/async-bach",
+  "bugs": {
+    "url": "https://github.com/akileez/async-bach/issues"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ]
+}
